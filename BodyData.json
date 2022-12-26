@@ -1,0 +1,18 @@
+{
+      "firstname": "{{firstname}}",
+      "address": [
+        {
+          "House No": "123",
+          "Sector": "22",
+          "type": "primary address"
+        },
+        {
+          "Area": "Chandigarh",
+          "Lane No": "12",
+          "type": "secondary address"
+        }
+      ],
+      "id": "{{id}}",
+      "designation": "Test Specialist",
+      "lastname": "Kachroo"
+    }
